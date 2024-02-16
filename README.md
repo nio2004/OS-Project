@@ -84,7 +84,9 @@ Phase -1
 
 Phase 2 -
     MULTIPROGRAMMING OPERATING SYSTEM (MOS) PROJECT
+    
     Second Phase
+    
     ASSUMPTIONS:
      Jobs may have program errors
      PI interrupt for program errors introduced
